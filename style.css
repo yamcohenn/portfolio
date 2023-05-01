@@ -97,7 +97,7 @@ ul {
     height: 100%;
     position: absolute;
     display: block;
-    background-image: url(imag/point.jpeg);
+    background-image: url(/portfolio/img/point.jpeg);
     background-position: center;
     background-size: cover;
     opacity: 0.6;
@@ -325,7 +325,7 @@ a:hover {
     height: 100%;
     position: absolute;
     display: block;
-    background-image: url(imag/point.jpeg);
+    background-image: url(/portfolio/img/point.jpeg);
     background-position: center;
     background-size: cover;
     opacity: 0.6;
