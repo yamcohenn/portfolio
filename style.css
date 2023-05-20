@@ -58,6 +58,10 @@ ul {
     display: flex;
     gap: 1rem;
 }
+li a:hover{
+ color: rgb(98, 91, 91);
+ 
+    }
 
 .profile img {
     border-radius: 50px;
@@ -66,12 +70,18 @@ ul {
 .profile {
     display: flex;
     flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
     gap: 1rem;
 }
 
 .profile p {
     display: flex;
     align-items: center;
+}
+
+.profile p:hover {
+    color: rgb(98, 91, 91); 
 }
 
 
